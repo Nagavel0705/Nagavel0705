@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Nagavel0705
+- 👋 Hi, I’m Nagavel
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning the MERN Stack
-- 💞️ I’m looking to collaborate on Front End Projects
+- 💞️ I’m looking to collaborate on Full Stack Projects
 - 📫 You can reach me via my email - nagavel2010376@ssn.edu.in
 
 <!---
